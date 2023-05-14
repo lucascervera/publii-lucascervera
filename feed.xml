@@ -3,7 +3,7 @@
     <title>lucascervera.com</title>
     <link href="https://lucascervera.com/feed.xml" rel="self" />
     <link href="https://lucascervera.com" />
-    <updated>2023-05-14T19:00:29+02:00</updated>
+    <updated>2023-05-14T19:08:47+02:00</updated>
     <author>
         <name>Lucas Cervera</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://lucascervera.com/home/"/>
         <id>https://lucascervera.com/home/</id>
 
-        <updated>2023-05-14T19:00:29+02:00</updated>
+        <updated>2023-05-14T19:08:47+02:00</updated>
             <summary>
                 <![CDATA[
                     Perfil profesional Startups (Internet, Software, Aceleradora) Profesor (Innovación, Startups, Emprendimiento) Asesor de startups (Modelo de negocio, Diseño y Validación de negocio) Cofounder of 3 startups and 1 foundation in the internet, software and entrepreneurship fields over the last 15 years nVotes (2014), secure on-line voting software&hellip;
@@ -37,7 +37,16 @@
 <div><strong>Asesor de startups</strong> (<span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">Modelo de negocio, </span><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">Diseño y Validación de negocio)</span></div>
 </li>
 </ul>
-<h2>Cofounder of 3 startups and 1 foundation in the internet, software and entrepreneurship fields over the last 15 years</h2>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td><figure class="post__image post__image--wide"><img loading="lazy"  src="https://lucascervera.com/media/posts/9/thumbnail_background_3840x2160_-_Copy-removebg-preview.png" alt="Lucas Cervera profesor innovación inteligencia artificial" width="498" height="501" sizes="100vw" srcset="https://lucascervera.com/media/posts/9/responsive/thumbnail_background_3840x2160_-_Copy-removebg-preview-xs.png 300w ,https://lucascervera.com/media/posts/9/responsive/thumbnail_background_3840x2160_-_Copy-removebg-preview-sm.png 480w ,https://lucascervera.com/media/posts/9/responsive/thumbnail_background_3840x2160_-_Copy-removebg-preview-md.png 768w ,https://lucascervera.com/media/posts/9/responsive/thumbnail_background_3840x2160_-_Copy-removebg-preview-lg.png 1024w ,https://lucascervera.com/media/posts/9/responsive/thumbnail_background_3840x2160_-_Copy-removebg-preview-xl.png 1360w ,https://lucascervera.com/media/posts/9/responsive/thumbnail_background_3840x2160_-_Copy-removebg-preview-2xl.png 1600w"></figure></td>
+<td>
+<h3>Cofounder of 3 startups and 1 foundation in the internet, software and entrepreneurship fields over the last 15 years</h3>
+</td>
+</tr>
+</tbody>
+</table>
 <ul>
 <li><a href="http://nvotes.com/" target="_blank" rel="noopener noreferrer">nVotes</a> (2014), secure on-line voting software used by 2+ million voters</li>
 <li><a href="http://sonarventures.com/" target="_blank" rel="noopener noreferrer">Sonar Ventures</a> (2011), the first Venture Builder in Spain</li>
@@ -46,7 +55,7 @@
 </ul>
 <h3 data-id="cb1a646f0e774fd6811027c21d2f7d05"><strong>Professor and advisor</strong></h3>
 <ul>
-<li><strong>Business Design Professor 8</strong>00 hours of class to 1800 students</li>
+<li><strong>Business Design Professor </strong>800 hours of class to 1800 students</li>
 <li><strong>Startup Advisor / Mentor </strong>2800+ hours of mentoring to 750 entrepreneurs</li>
 <li><strong>Speaker </strong>120+ talks and workshops with 5000+ attendees</li>
 <li><strong>Media</strong> I have taken part in 100+ events with media (tv, radio, press...)</li>
