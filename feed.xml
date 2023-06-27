@@ -3,7 +3,7 @@
     <title>lucascervera.com</title>
     <link href="https://lucascervera.com/feed.xml" rel="self" />
     <link href="https://lucascervera.com" />
-    <updated>2023-05-14T19:08:47+02:00</updated>
+    <updated>2023-06-27T09:38:28+02:00</updated>
     <author>
         <name>Lucas Cervera</name>
     </author>
@@ -17,10 +17,10 @@
         <link href="https://lucascervera.com/home/"/>
         <id>https://lucascervera.com/home/</id>
 
-        <updated>2023-05-14T19:08:47+02:00</updated>
+        <updated>2023-06-27T09:38:28+02:00</updated>
             <summary>
                 <![CDATA[
-                    Perfil profesional Startups (Internet, Software, Aceleradora) Profesor (Innovación, Startups, Emprendimiento) Asesor de startups (Modelo de negocio, Diseño y Validación de negocio) Cofounder of 3 startups and 1 foundation in the internet, software and entrepreneurship fields over the last 15 years nVotes (2014), secure on-line voting software&hellip;
+                    Perfil profesional Startups (Internet, Software, Aceleradora) Profesor (Innovación, Startups, Emprendimiento, IA generativa) Asesor de startups (Modelo de negocio, Diseño y Validación de negocio) Cofounder of 3 startups and 1 foundation in the internet, software and entrepreneurship fields. Now focused on innovation and the application of&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -31,23 +31,25 @@
 <div><strong>Startups </strong>(<span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit;">Internet, </span><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit;">Software, </span><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit;">Aceleradora)</span></div>
 </li>
 <li>
-<div><strong>Profesor </strong>(<span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit;">Innovación, </span><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit;">Startups, </span><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit;">Emprendimiento)</span></div>
+<div><strong>Profesor </strong>(<span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit;">Innovación, </span><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit;">Startups, </span><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit;">Emprendimiento, IA generativa)</span></div>
 </li>
 <li>
 <div><strong>Asesor de startups</strong> (<span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">Modelo de negocio, </span><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">Diseño y Validación de negocio)</span></div>
 </li>
 </ul>
-<table style="border-collapse: collapse; width: 100%;" border="1">
+<table class=" align-center align-right" style="border-collapse: collapse; width: 100%;" border="0">
 <tbody>
 <tr>
-<td><figure class="post__image post__image--wide"><img loading="lazy"  src="https://lucascervera.com/media/posts/9/thumbnail_background_3840x2160_-_Copy-removebg-preview.png" alt="Lucas Cervera profesor innovación inteligencia artificial" width="498" height="501" sizes="100vw" srcset="https://lucascervera.com/media/posts/9/responsive/thumbnail_background_3840x2160_-_Copy-removebg-preview-xs.png 300w ,https://lucascervera.com/media/posts/9/responsive/thumbnail_background_3840x2160_-_Copy-removebg-preview-sm.png 480w ,https://lucascervera.com/media/posts/9/responsive/thumbnail_background_3840x2160_-_Copy-removebg-preview-md.png 768w ,https://lucascervera.com/media/posts/9/responsive/thumbnail_background_3840x2160_-_Copy-removebg-preview-lg.png 1024w ,https://lucascervera.com/media/posts/9/responsive/thumbnail_background_3840x2160_-_Copy-removebg-preview-xl.png 1360w ,https://lucascervera.com/media/posts/9/responsive/thumbnail_background_3840x2160_-_Copy-removebg-preview-2xl.png 1600w"></figure></td>
-<td>
-<h3>Cofounder of 3 startups and 1 foundation in the internet, software and entrepreneurship fields over the last 15 years</h3>
+<td style="width: 100%;">
+<h3><figure class="post__image post__image--left"><img loading="lazy"  src="https://lucascervera.com/media/posts/9/thumbnail_background_3840x2160_-_Copy-removebg-preview.png" alt="" width="219" height="221" sizes="100vw" srcset="https://lucascervera.com/media/posts/9/responsive/thumbnail_background_3840x2160_-_Copy-removebg-preview-xs.png 300w ,https://lucascervera.com/media/posts/9/responsive/thumbnail_background_3840x2160_-_Copy-removebg-preview-sm.png 480w ,https://lucascervera.com/media/posts/9/responsive/thumbnail_background_3840x2160_-_Copy-removebg-preview-md.png 768w ,https://lucascervera.com/media/posts/9/responsive/thumbnail_background_3840x2160_-_Copy-removebg-preview-lg.png 1024w ,https://lucascervera.com/media/posts/9/responsive/thumbnail_background_3840x2160_-_Copy-removebg-preview-xl.png 1360w ,https://lucascervera.com/media/posts/9/responsive/thumbnail_background_3840x2160_-_Copy-removebg-preview-2xl.png 1600w"></figure></h3>
+<h3>Cofounder of 3 startups and 1 foundation in the internet, software and entrepreneurship fields. Now focused on innovation and the application of artificial intelligence to business</h3>
 </td>
 </tr>
 </tbody>
 </table>
 <ul>
+<li><a href="http://innCoPilot.com/" target="_blank" rel="noopener noreferrer">innCoPilot</a> (2023), business modeling</li>
+<li><a href="http://innteresante.com/" target="_blank" rel="noopener noreferrer">innteresante</a> (2021), communicating innovation in a simple and entertaining way</li>
 <li><a href="http://nvotes.com/" target="_blank" rel="noopener noreferrer">nVotes</a> (2014), secure on-line voting software used by 2+ million voters</li>
 <li><a href="http://sonarventures.com/" target="_blank" rel="noopener noreferrer">Sonar Ventures</a> (2011), the first Venture Builder in Spain</li>
 <li><a href="http://iniciador.com/" target="_blank" rel="noopener noreferrer">Iniciador Foundation</a> (2007), ~1000 talks for entrepreneurs organized</li>
